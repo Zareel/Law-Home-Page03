@@ -8,6 +8,4 @@
 
 ![image](<./assets/Screenshot%20(318).png>)
 
-[github](https://github.com/Zareel/Low-Home-Page-)
-
 [live](https://law-z-home-page.netlify.app/)
