@@ -6,6 +6,7 @@
 
 ## Here is my project #03, Law Home Page- Website. This assignment is a part of the BootCamp
 
-![image](<./assets/Screenshot%20(318).png>)
 
 [live](https://law-z-home-page.netlify.app/)
+
+![projectScreenshot03](https://user-images.githubusercontent.com/110910838/209373178-9ae1324f-5673-4f13-a5ce-9de485bcc7c4.png)
